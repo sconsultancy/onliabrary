@@ -12,7 +12,7 @@ function Navbar() {
         </h1>
       </div>
       <div className="flex space-x-8">
-        <a className=" text-[15px] text-[#BA131C]" href="/features">
+        {/* <a className=" text-[15px] text-[#BA131C]" href="/features">
           Features
         </a>
         <a className=" text-[15px] text-[#BA131C]" href="/pricing">
@@ -23,7 +23,7 @@ function Navbar() {
         </a>
         <a className=" text-[15px] text-[#BA131C]" href="/ebooks">
           E-Books
-        </a>
+        </a> */}
       </div>
       <div>
         <button className=" border  py-2 px-8 rounded border-[#BA131C] text-[#BA131C]">
